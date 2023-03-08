@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uat-template-generator/static/css/main.fc5c2c69.css",
+    "main.js": "/uat-template-generator/static/js/main.dda10397.js",
+    "index.html": "/uat-template-generator/index.html",
+    "main.fc5c2c69.css.map": "/uat-template-generator/static/css/main.fc5c2c69.css.map",
+    "main.dda10397.js.map": "/uat-template-generator/static/js/main.dda10397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.dda10397.js"
+  ]
+}
